@@ -1,5 +1,5 @@
 ## I created two functions: makeCacheMatrix and cacheSolve
-## The first will store an input matrix and makes sure that the class of the input is a matrix
+## The first will store an input matrix and make sure that the class of the input is a matrix
 ## The second will calculate the inverse of the matrix stored via the first function
 ## If this process has been performed before, a message will display stating that the inverse is
 ##  being recalled rather than re-calculated, aka. it is "cached data".
