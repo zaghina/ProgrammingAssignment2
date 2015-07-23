@@ -3,7 +3,7 @@
 ## The second will calculate the inverse of the matrix stored via the first function
 ## If this process has been performed before, a message will display stating that the inverse is
 ##  being recalled rather than re-calculated, aka. it is "cached data".
-## To test these two functions:
+## To use these two functions:
     ##1.Store the matrix in an object (let's call it "Object1")
     ##2.Store the output of makeCacheMatrix("your object's name") in another object (e.g."Object2")
     ##3.Apply cacheSolve function on the second object's name ("Object2") --> you will get the inverse of the first object ("Object1")
